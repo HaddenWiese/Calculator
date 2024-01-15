@@ -1,0 +1,14 @@
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/bin/Debug/net8.0/Calculator
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/haddenwiese/VScode/c# Projects/Calculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
